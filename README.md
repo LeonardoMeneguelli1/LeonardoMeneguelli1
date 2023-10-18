@@ -1,4 +1,4 @@
-## Ola! Me Chamo Leonardo Meneguelli! Sejá Bem-vindo!  👋
+## Olá! Me Chamo Leonardo Meneguelli! Sejá Bem-vindo!  👋
 
 <!--
 **LeonardoMeneguelli1/LeonardoMeneguelli1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
