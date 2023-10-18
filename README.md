@@ -19,4 +19,5 @@ Here are some ideas to get you started:
   <img align="center" alt="leo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="leo-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/php-original.svg">
 </div>
