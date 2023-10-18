@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://github.com/LeonardoMeneguelli1">
-  <img height="100em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=leonardomeneguelli1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=leonardomeneguelli1&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=leonardomeneguelli1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=leonardomeneguelli1&layout=compact&langs_count=8&theme=tokyonight"/>
 <div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Leonardo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
