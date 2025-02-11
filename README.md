@@ -37,7 +37,6 @@ Here are some ideas to get you started:
   <img align="center" alt="Leonardo-HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="Leonardo-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img align="center" alt="Leonardo-GitHub" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
-  <img align="center" alt="Leonardo VsCode " height="40" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" />
   <img align="center" alt="Leonardo React " height="40" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />
   <img align="center" alt="Leonardo Bootstrap" height="45" width="45" src="https://obscureproblemsandgotchas.com/wp-content/uploads/2018/06/bootstrap-stack-e1530246058846.png" />
   <img align="center" alt="Leonardo Vite" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
