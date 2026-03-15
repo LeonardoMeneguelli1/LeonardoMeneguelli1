@@ -32,7 +32,6 @@ Here are some ideas to get you started:
  <div style="display: inline_block" align = "center"><br>
 
   <img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="NODE JS" height="40" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png"/>
   <img align="center" alt="Leonardo-Git" height="40" width="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
   <img align="center" alt="Leonardo-HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="Leonardo-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
