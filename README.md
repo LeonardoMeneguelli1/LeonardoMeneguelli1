@@ -32,12 +32,13 @@ Here are some ideas to get you started:
  <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
 
   <img alt="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img alt="Git" height="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
+  <img alt="TypeScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
+  <img alt="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img alt="HTML" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img alt="CSS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img alt="Bootstrap" height="45" src="https://obscureproblemsandgotchas.com/wp-content/uploads/2018/06/bootstrap-stack-e1530246058846.png" />
   <img alt="PHP" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img alt="TypeScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
+  <img alt="Git" height="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
   <img alt="GitHub" height="40" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
 
 </div>
